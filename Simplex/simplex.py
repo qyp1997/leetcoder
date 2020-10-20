@@ -1,8 +1,5 @@
 import numpy as np
-'''
-Author:Qi
-Date:2020/10/18
-'''
+
 
 def simplex(data, minOrMax=True):
     """
