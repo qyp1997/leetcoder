@@ -38,7 +38,7 @@ class Solution:
 
 
 if __name__ == '__main__':
-    # 测试用例
+    # 下面是测试用例
 
     # 构建链表
     p = q = ListNode(0)
